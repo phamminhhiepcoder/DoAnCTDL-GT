@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.exe.config
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.exe
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.pdb
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.exe
+C:\Users\Administrator\Desktop\C# Projects\CTDL&GT\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.pdb
